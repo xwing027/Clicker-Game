@@ -1,0 +1,2587 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16138 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/seven/Documents/tafe/cert iv digital and interactive games/Programming/Clicker-Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56746
+Successfully changed project path to: C:/Users/seven/Documents/tafe/cert iv digital and interactive games/Programming/Clicker-Game
+C:/Users/seven/Documents/tafe/cert iv digital and interactive games/Programming/Clicker-Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 97.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/seven/Documents/tafe/cert iv digital and interactive games/Programming/Clicker-Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Plus Graphics (ID=0x8a52)
+    Vendor:   
+    VRAM:     8069 MB
+    Driver:   27.20.100.8783
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002570 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 96.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.217 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2237.
+Total: 3.001900 ms (FindLiveObjects: 0.434800 ms CreateObjectMapping: 0.109800 ms MarkObjects: 2.284000 ms  DeleteObjects: 0.171000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/ButtonManager.cs
+  artifactKey: Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonManager.cs using Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc045a404dee6c1d90d72a1a4d3ba777') in 0.062038 seconds
+  Import took 0.068768 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2240.
+Total: 5.696000 ms (FindLiveObjects: 0.312600 ms CreateObjectMapping: 0.120800 ms MarkObjects: 4.944400 ms  DeleteObjects: 0.315700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.846 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2243.
+Total: 3.741800 ms (FindLiveObjects: 0.310000 ms CreateObjectMapping: 0.093700 ms MarkObjects: 3.098700 ms  DeleteObjects: 0.236900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.308395 seconds.
+  path: Assets/Scripts/ButtonManager.cs
+  artifactKey: Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonManager.cs using Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497f9fa5eec4a7ba55c50e0267c500d2') in 0.015364 seconds
+  Import took 0.022347 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 5.273400 ms (FindLiveObjects: 0.544300 ms CreateObjectMapping: 0.211500 ms MarkObjects: 4.224400 ms  DeleteObjects: 0.288700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.466 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 5.425900 ms (FindLiveObjects: 0.555300 ms CreateObjectMapping: 0.178000 ms MarkObjects: 4.480700 ms  DeleteObjects: 0.205000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002204 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 4.912800 ms (FindLiveObjects: 0.543500 ms CreateObjectMapping: 0.124400 ms MarkObjects: 4.039200 ms  DeleteObjects: 0.203600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.140 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 4.542300 ms (FindLiveObjects: 0.378900 ms CreateObjectMapping: 0.153500 ms MarkObjects: 3.777100 ms  DeleteObjects: 0.230000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11026.260652 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3096725aeca373b17c2056a03859fa4') in 0.026301 seconds
+  Import took 0.034940 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 3.883900 ms (FindLiveObjects: 0.473600 ms CreateObjectMapping: 0.232000 ms MarkObjects: 2.815700 ms  DeleteObjects: 0.359100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.973 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 3.541400 ms (FindLiveObjects: 0.350000 ms CreateObjectMapping: 0.137200 ms MarkObjects: 2.837500 ms  DeleteObjects: 0.214400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.542295 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002866 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075565 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000430 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031258 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000498 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031157 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000556 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136439 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000581 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132637 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000725 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034424 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000603 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033270 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033538 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.143245 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000689 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046138 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000602 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135848 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000660 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041202 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001266 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029562 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044034 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000636 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036742 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000790 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141863 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000892 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.010034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052922 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000697 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118443 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.004485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024433 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000439 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.004862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126516 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000788 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139306 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000676 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052849 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000595 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029797 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135393 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000596 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038382 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000649 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134700 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000623 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040944 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000686 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030025 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131934 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000789 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139471 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000634 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038549 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000578 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019903 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000891 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131517 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001064 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038725 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000885 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031993 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000954 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.009046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134224 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000784 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042917 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000584 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032702 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000542 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138955 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000591 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037972 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000861 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033192 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000806 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032993 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001391 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037399 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000665 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036045 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000712 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132264 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000886 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057253 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000607 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035131 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129253 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000795 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053337 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000916 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132792 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000555 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036466 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000912 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040798 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000876 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.009399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137043 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000633 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046541 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000789 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132800 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000660 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050711 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000597 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037375 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000611 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135313 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000955 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049178 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000597 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131532 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000558 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046477 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137851 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000802 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136461 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050794 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029439 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000966 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135847 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000642 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058221 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000632 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036812 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000571 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132839 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000602 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131267 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000629 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033175 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153612 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000845 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.009749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044429 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001171 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.009130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131228 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001149 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.014178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042785 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000575 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029854 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135354 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000783 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.018962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.142059 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000777 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050145 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000800 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.012640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130587 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000590 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044238 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000579 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.005901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030184 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000559 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036117 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000756 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.007875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040400 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000596 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.014001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130578 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000613 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038169 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000632 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049498 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000594 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126104 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000546 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030504 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000567 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.006352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153600 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000747 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:31.3921753Z'
+  Import took 0.008800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126004 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000674 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136607 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000742 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.010583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130810 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000589 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037029 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000615 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.008834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129434 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000830 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031416 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000521 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045283 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000551 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132038 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000572 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039599 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000746 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034975 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000526 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131506 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000686 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137915 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000698 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033339 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001051 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141216 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000695 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133971 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001013 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037720 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000907 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.008511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038221 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000586 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126073 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000531 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121660 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129147 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000658 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037000 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000618 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038057 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000677 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131274 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000546 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047122 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133960 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000626 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036497 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001142 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.008589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037211 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132995 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000644 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037983 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000598 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038506 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000770 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133536 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040026 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000963 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042106 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000542 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135005 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000977 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138721 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000549 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039703 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000532 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134550 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000580 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042914 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000600 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038300 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000794 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133572 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040122 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000679 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031157 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000638 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133490 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044172 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000577 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040449 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000561 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133014 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039405 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000754 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038006 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000522 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134031 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000702 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033152 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000524 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146750 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000560 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135413 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000582 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.007040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030389 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000489 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139163 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000619 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051276 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132946 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000702 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045631 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000613 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133052 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000579 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.005783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037740 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036517 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000754 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.115373 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000652 seconds
+  ERROR: Build asset version error: assets/scripts/uimanager.cs in SourceAssetDB has modification time of '2021-09-13T04:47:48.5261374Z' while content on disk has modification time of '2021-09-13T04:48:39.1933692Z'
+  Import took 0.006166 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 3.679100 ms (FindLiveObjects: 0.262700 ms CreateObjectMapping: 0.117300 ms MarkObjects: 3.125700 ms  DeleteObjects: 0.171700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.053247 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96663464825869c1c20ef473ea5ea613') in 0.018195 seconds
+  Import took 0.024878 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 4.416100 ms (FindLiveObjects: 0.355800 ms CreateObjectMapping: 0.104200 ms MarkObjects: 3.729200 ms  DeleteObjects: 0.224500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.0 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 3.825100 ms (FindLiveObjects: 0.350100 ms CreateObjectMapping: 0.093300 ms MarkObjects: 3.086500 ms  DeleteObjects: 0.293000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001571 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 4.129000 ms (FindLiveObjects: 0.462700 ms CreateObjectMapping: 0.200100 ms MarkObjects: 3.168900 ms  DeleteObjects: 0.294400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001684 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2277.
+Total: 5.268400 ms (FindLiveObjects: 0.780200 ms CreateObjectMapping: 0.159300 ms MarkObjects: 4.112500 ms  DeleteObjects: 0.213600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002716 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 3.873900 ms (FindLiveObjects: 0.394200 ms CreateObjectMapping: 0.164300 ms MarkObjects: 3.039500 ms  DeleteObjects: 0.273700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002172 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.792 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 3.156300 ms (FindLiveObjects: 0.364400 ms CreateObjectMapping: 0.086400 ms MarkObjects: 2.543400 ms  DeleteObjects: 0.159700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.724 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2286.
+Total: 4.896100 ms (FindLiveObjects: 0.462000 ms CreateObjectMapping: 0.289700 ms MarkObjects: 3.878600 ms  DeleteObjects: 0.262400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 4.095300 ms (FindLiveObjects: 0.394500 ms CreateObjectMapping: 0.124400 ms MarkObjects: 3.360400 ms  DeleteObjects: 0.213600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 4.206300 ms (FindLiveObjects: 0.363800 ms CreateObjectMapping: 0.152100 ms MarkObjects: 3.480700 ms  DeleteObjects: 0.208000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.172 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 3.769800 ms (FindLiveObjects: 0.323200 ms CreateObjectMapping: 0.101400 ms MarkObjects: 3.160000 ms  DeleteObjects: 0.182800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2298.
+Total: 4.684100 ms (FindLiveObjects: 0.573300 ms CreateObjectMapping: 0.146500 ms MarkObjects: 3.709600 ms  DeleteObjects: 0.249300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 2.632300 ms (FindLiveObjects: 0.377700 ms CreateObjectMapping: 0.111100 ms MarkObjects: 1.968800 ms  DeleteObjects: 0.172500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001123 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 2.616200 ms (FindLiveObjects: 0.494500 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.893300 ms  DeleteObjects: 0.117200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5104.341604 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac482afe6a5ac2969c720b96ee02723c') in 0.011315 seconds
+  Import took 0.014917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017356 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(877afde86577fd04592ce46abebf1f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac482afe6a5ac2969c720b96ee02723c') in 0.003504 seconds
+  Import took 0.008403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.322795 seconds.
+  path: Assets/Scripts/ButtonManager.cs
+  artifactKey: Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonManager.cs using Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7779bd1e37f7352991768a1fcea03f54') in 0.008196 seconds
+  Import took 0.013442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Scripts/ButtonManager.cs
+  artifactKey: Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonManager.cs using Guid(add7cb71714f15247ba1b158c43142fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7779bd1e37f7352991768a1fcea03f54') in 0.005535 seconds
+  Import took 0.008967 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000963 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 3.114000 ms (FindLiveObjects: 0.468700 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.446900 ms  DeleteObjects: 0.116700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001002 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 3.194000 ms (FindLiveObjects: 0.535700 ms CreateObjectMapping: 0.358600 ms MarkObjects: 2.198000 ms  DeleteObjects: 0.100500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 3.255500 ms (FindLiveObjects: 0.137100 ms CreateObjectMapping: 0.035600 ms MarkObjects: 2.986300 ms  DeleteObjects: 0.094600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 2.355700 ms (FindLiveObjects: 0.179600 ms CreateObjectMapping: 0.126000 ms MarkObjects: 1.921900 ms  DeleteObjects: 0.127200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 2.895700 ms (FindLiveObjects: 0.308400 ms CreateObjectMapping: 0.093700 ms MarkObjects: 2.374100 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001416 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 1.990200 ms (FindLiveObjects: 0.138700 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.698000 ms  DeleteObjects: 0.103500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 2.359800 ms (FindLiveObjects: 0.146000 ms CreateObjectMapping: 0.065500 ms MarkObjects: 2.052800 ms  DeleteObjects: 0.094000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001905 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 2.769500 ms (FindLiveObjects: 0.505600 ms CreateObjectMapping: 0.116800 ms MarkObjects: 1.961200 ms  DeleteObjects: 0.184100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 2.653400 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.075200 ms MarkObjects: 2.266400 ms  DeleteObjects: 0.100100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2333.
+Total: 3.696200 ms (FindLiveObjects: 0.545200 ms CreateObjectMapping: 0.230700 ms MarkObjects: 2.706300 ms  DeleteObjects: 0.211600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000767 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 3.668300 ms (FindLiveObjects: 0.304900 ms CreateObjectMapping: 0.079100 ms MarkObjects: 3.191800 ms  DeleteObjects: 0.091500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 1.818300 ms (FindLiveObjects: 0.236800 ms CreateObjectMapping: 0.078400 ms MarkObjects: 1.388700 ms  DeleteObjects: 0.113300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001186 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 4.545900 ms (FindLiveObjects: 0.317500 ms CreateObjectMapping: 0.078400 ms MarkObjects: 3.830000 ms  DeleteObjects: 0.318100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000834 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 2.553600 ms (FindLiveObjects: 0.425500 ms CreateObjectMapping: 0.142200 ms MarkObjects: 1.886100 ms  DeleteObjects: 0.098600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001108 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.891000 ms (FindLiveObjects: 0.279900 ms CreateObjectMapping: 0.055000 ms MarkObjects: 2.446000 ms  DeleteObjects: 0.108400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.1 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 3.944900 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.115600 ms MarkObjects: 3.442300 ms  DeleteObjects: 0.102400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000939 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 2.746100 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.043600 ms MarkObjects: 2.338100 ms  DeleteObjects: 0.153900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 2.502100 ms (FindLiveObjects: 0.472300 ms CreateObjectMapping: 0.131600 ms MarkObjects: 1.782500 ms  DeleteObjects: 0.113900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 2.085200 ms (FindLiveObjects: 0.166600 ms CreateObjectMapping: 0.066800 ms MarkObjects: 1.743200 ms  DeleteObjects: 0.107400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 2.122500 ms (FindLiveObjects: 0.185500 ms CreateObjectMapping: 0.096300 ms MarkObjects: 1.736300 ms  DeleteObjects: 0.090300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.985 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2366.
+Total: 2.278800 ms (FindLiveObjects: 0.219000 ms CreateObjectMapping: 0.060300 ms MarkObjects: 1.906800 ms  DeleteObjects: 0.091500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 4.025500 ms (FindLiveObjects: 0.217300 ms CreateObjectMapping: 0.070600 ms MarkObjects: 3.613200 ms  DeleteObjects: 0.122900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 2.414300 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.049800 ms MarkObjects: 2.046000 ms  DeleteObjects: 0.116600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001108 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 3.064200 ms (FindLiveObjects: 0.366900 ms CreateObjectMapping: 0.044100 ms MarkObjects: 2.478500 ms  DeleteObjects: 0.172600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000834 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 2.382600 ms (FindLiveObjects: 0.184600 ms CreateObjectMapping: 0.089600 ms MarkObjects: 2.013600 ms  DeleteObjects: 0.093600 ms)
+
