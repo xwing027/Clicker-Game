@@ -32,17 +32,18 @@ public class ButtonManager : MonoBehaviour
         
         jobNo = PlayerPrefs.GetInt("jobs", 0);
         jobSearcher = GameObject.Find("Canvas/Gameplay/Job Searcher"); //finds jobsearcher to prevent it from being lost so it can be activated and deactivated
-        jobSearcher.SetActive(false);
+        jobSearcher.SetActive(false); //hides job searcher
 
         socialz = GameObject.Find("Canvas/Gameplay/Socialz");
         socialz.SetActive(false);
 
         UpdateMoney();
+
     }
 
     public void Update()
     {
-        if (moneyNo >= 10) //change to 100 - Activate Job searcher
+        if (moneyNo >= 10) //change to 25 - Activate Job searcher
         {
             jobSearcher.SetActive(true);
 
@@ -59,7 +60,6 @@ public class ButtonManager : MonoBehaviour
     public void ButtonPressFB()
     {
         moneyNo++;
-        //Debug.Log(moneyNo + " fanbots generated");
 
         UpdateMoney();
 
@@ -81,20 +81,25 @@ public class ButtonManager : MonoBehaviour
     #region Job Searcher Application
     public void JobSearcher()
     {
-        InvokeRepeating("JobSearcher", 5.0f, 5.0f); //add to the job count every 10 seconds
+        InvokeRepeating("JobSearcher", 5.0f, 5.0f);
+        //add to the job count every 5 seconds
 
         jobNo++; //add to job count
         jobUICounter.text = "No. of Jobs taken: " + jobNo; //shows job count in ui
-        jobPerSec.text = "You are recieving " + jobRate + " jobs every " + jobSec + " seconds, for $10";
+        jobPerSec.text = jobRate + " jobs per " + jobSec + " seconds + $10";
         UpdateMoney(); //updates money count in ui
+
+        JobPayment();
     }
 
     private void JobPayment()
     {
-        moneyNo = moneyNo + 10;
-        if (jobBank == 50)
+        ///moneyNo = moneyNo + 10;
+        if (jobBank >= 50) //if first upgrade has been bought
         {
             InvokeRepeating("JobPayment", 5.0f, 5.0f);
+            //give 10$ every 5 seconds
+            moneyNo += 10;
         }
     }
 
@@ -105,11 +110,14 @@ public class ButtonManager : MonoBehaviour
             jobUICounter.enabled = true; //enables jobcounter to be viewed
             purchase.enabled = false; //disables the purchase button, so does the line below
             purchaseText.enabled = false;
+            
             jobPerSec.enabled = true;
-            moneyNo = moneyNo - 40; //cost $50 to enable job searcher
-            jobBank = jobBank + 50;
-            JobSearcher(); //run the job searcher application
-            JobPayment(); //run job payment
+
+            moneyNo -= 50; //cost $50 to enable job searcher, you earn $10 for the first job
+            jobBank += 50; //used to keep track of how many upgrades have been bought
+
+            //JobPayment();
+            //JobSearcher(); //run the job searcher application
         }
         else
         {
