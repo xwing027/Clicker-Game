@@ -568,7 +568,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1803644876}
         m_TargetAssemblyTypeName: ButtonManager2, Assembly-CSharp
-        m_MethodName: ToggleJob1
+        m_MethodName: ToggleJobUpgrades
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1077,7 +1077,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1803644876}
         m_TargetAssemblyTypeName: ButtonManager2, Assembly-CSharp
-        m_MethodName: ToggleJob1
+        m_MethodName: ToggleJobUpgrades
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1404,7 +1404,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1803644876}
         m_TargetAssemblyTypeName: ButtonManager2, Assembly-CSharp
-        m_MethodName: ToggleJob1
+        m_MethodName: ToggleJobUpgrades
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1858,8 +1858,6 @@ MonoBehaviour:
   moneyUICounter: {fileID: 1208107030}
   jobUICounter: {fileID: 90112984}
   jobBonusCounter: {fileID: 1325196550}
-  jobSearcher: {fileID: 1756521948}
-  socialz: {fileID: 0}
 --- !u!1 &1812009225
 GameObject:
   m_ObjectHideFlags: 0

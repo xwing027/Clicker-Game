@@ -27,9 +27,6 @@ public class ButtonManager2 : MonoBehaviour
     Text jobUICounter;
     [SerializeField] //for some reason the line below wont show unless i directly serialize it :/
     Text jobBonusCounter;
-    public GameObject jobSearcher;
-
-    public GameObject socialz;
     #endregion
 
     void Start()
@@ -90,7 +87,7 @@ public class ButtonManager2 : MonoBehaviour
         jobBonusCounter.text = "+ $" + jobBonus; //updates how much money per click is being earnt with each upgrade
     }
 
-    public void ToggleJob1(int num)
+    public void ToggleJobUpgrades(int num)
     {
         if (num == 0 && moneyNo >= 50) //if you have $50 you can then click the button
         {
@@ -140,9 +137,4 @@ public class ButtonManager2 : MonoBehaviour
     }
 
     #endregion
-
-    public void Socialz()
-    {
-
-    }
 }
