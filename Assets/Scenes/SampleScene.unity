@@ -1794,7 +1794,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1803644875}
-  - component: {fileID: 1803644874}
   - component: {fileID: 1803644876}
   m_Layer: 0
   m_Name: ButtonManager
@@ -1803,25 +1802,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1803644874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1803644873}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: add7cb71714f15247ba1b158c43142fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  purchaseText: {fileID: 1812009227}
-  purchase: {fileID: 829957951}
-  jobPerSec: {fileID: 1325196550}
-  moneyUICounter: {fileID: 1208107030}
-  jobUICounter: {fileID: 90112984}
-  jobSearcher: {fileID: 1756521948}
-  socialz: {fileID: 0}
 --- !u!4 &1803644875
 Transform:
   m_ObjectHideFlags: 0
